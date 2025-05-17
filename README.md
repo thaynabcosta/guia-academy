@@ -26,8 +26,7 @@ guia-academy/
 │   ├── semana-1.md  
 │   └── ...  
 ├── exemplos-genericos/  
-│   ├── bot-simulador.py  
-│   └── arquitetura-botcity.md  
+│   └── .gitkeep
 ├── referencias/  
 │   ├── ferramentas.md  
 │   └── boas-praticas.md  
