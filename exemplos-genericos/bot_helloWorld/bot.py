@@ -1,8 +1,8 @@
 from botcity.core import DesktopBot, Backend
 from botcity.maestro import *
 
-from remove_files import remove_txt
-from constants import *
+from utils.remove_files import remove_txt
+from utils.constants import *
 
 BotMaestroSDK.RAISE_NOT_CONNECTED = False
 

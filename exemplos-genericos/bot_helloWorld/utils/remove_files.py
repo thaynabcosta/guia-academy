@@ -1,5 +1,5 @@
 import os
-from constants import *
+from utils.constants import *
 
 def remove_txt():
     try:
