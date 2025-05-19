@@ -1,4 +1,4 @@
-from botcity.core import DesktopBot, Backend
+from botcity.core import DesktopBot
 from botcity.maestro import *
 
 from utils.remove_files import remove_txt
