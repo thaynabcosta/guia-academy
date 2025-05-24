@@ -8,3 +8,4 @@ Nos dois últimos dias da semana, explorei uma metodologia voltada para inovaç�
 
 Fechamos a semana com uma avaliação geral sobre alguns temas abordados, seguida de uma revisão técnica focada em boas práticas de usabilidade e negócios.
 
+> ⚠️ Por se tratar de um projeto interno com cláusulas de confidencialidade, detalhes específicos sobre ferramentas, fluxos e sistemas foram omitidos neste resumo.
