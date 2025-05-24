@@ -1,4 +1,4 @@
-# Resumo - Semana 1
+# Resumo - Semana 1 - 12 a 16 de Maio
 
 A primeira semana no programa foi marcada por uma imersão intensa em automação corporativa e cultura organizacional. Iniciamos com uma introdução institucional sobre a empresa parceira, explorando sua trajetória e impacto no mercado global. Também realizamos uma visita técnica a uma de suas unidades fabris, o que nos permitiu compreender, na prática, o contexto onde as soluções de automação serão aplicadas.
 
